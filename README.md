@@ -1,3 +1,5 @@
+![Alt text](images/decoder.png?raw=true "Message decoder")
+
 Decoder
 =======
 
